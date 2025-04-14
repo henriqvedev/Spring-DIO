@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="095ead22-c23d-42e7-8861-1174b9975335" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+    <list default="true" id="8d622ba3-2289-4296-993a-48d2d501f6b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/desafio/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/src/main/java/com/seuusuario/apiveiculos/ApiVeiculosApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/src/main/java/com/seuusuario/apiveiculos/controller/PessoaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/src/main/java/com/seuusuario/apiveiculos/controller/VeiculoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/src/main/java/com/seuusuario/apiveiculos/model/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/src/main/java/com/seuusuario/apiveiculos/model/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/src/main/java/com/seuusuario/apiveiculos/repository/PessoaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/src/main/java/com/seuusuario/apiveiculos/repository/VeiculoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/src/main/java/com/seuusuario/apiveiculos/service/PessoaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/src/main/java/com/seuusuario/apiveiculos/service/VeiculoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/src/test/java/com/seuusuario/apiveiculos/DesafioApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/padroesdeproj/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/padroesdeproj/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/padroesdeproj/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/padroesdeproj/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/padroesdeproj/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/padroesdeproj/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/padroesdeproj/target/classes/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,25 +40,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="2vjC9EnYb0LQ1xtF1CW2kmRnfue" />
+  <component name="ProjectId" id="2vjQUvl8r2lBGVl9m7IJd2fKtJO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Desafio1",
+    "git-widget-placeholder": "Desafio2",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/dtrr2/Desktop/RepositoriosGithub/Spring-DIO/padroesdeproj",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
+    "last_opened_file_path": "C:/Users/dtrr2/Desktop/RepositoriosGithub/Spring-DIO",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
@@ -47,11 +69,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="095ead22-c23d-42e7-8861-1174b9975335" name="Changes" comment="" />
-      <created>1744648942978</created>
+      <changelist id="8d622ba3-2289-4296-993a-48d2d501f6b0" name="Changes" comment="" />
+      <created>1744656022091</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1744648942978</updated>
+      <updated>1744656022091</updated>
     </task>
     <servers />
   </component>
